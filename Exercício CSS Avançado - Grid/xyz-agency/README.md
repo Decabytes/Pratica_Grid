@@ -5,5 +5,5 @@ Serviu principalmente para praticar os conceitos de animação atráves da "arro
  Se executar o código é esse layout que vai obter no seu navegador:
 ```
 <p align="center">
-<img src="./src/images/xyz agency.gif"  width="700"/>
+<img src="./src/images/xyz agency.gif"  width="750"/>
 </p>
